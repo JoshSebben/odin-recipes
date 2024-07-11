@@ -1,0 +1,22 @@
+.title{
+    color: #bb5636
+}
+
+p{
+    text-indent: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#ADA095;
+}
+
+.ingredient,
+.steps,
+.description{
+    color:#524339;
+}
+
+.ordered,
+.unordered{
+    color:#ADA095;
+    font-style: italic;
+}
